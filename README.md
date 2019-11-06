@@ -1,2 +1,2 @@
-# atm-machine
-python program for atm machine
+# Plastic bottle detection
+python program for plastic bottle detection
